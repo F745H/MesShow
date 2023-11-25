@@ -21,7 +21,7 @@ exit
 Save as any name.bat and create two text files name Input.txt for message and List.txt for usernames
 
 # Useful for System Administrators
-When i was working as a system admin intern, As a sys-admin intern whenever any maintenance, upgradation, update or any problem happens we need to mail users to logoff your accounts or send them message from task manager one by one or call them or teams them to logoff then i made this little script to pop message on every login users screen. This software is very useful as a system admin. 
+When i was working as a system admin intern, As a sys-admin intern whenever any maintenance, update or any problem happens we need to mail users to logoff your accounts or send them message from task manager one by one or call them or teams them to logoff then i made this little script to pop message on every login users screen.
 
 # Compatibility
 It will work on all windows server operating systems and windows xp, windows 7, windows 7, windows 8.1, windows 10(all versions except home edition) and it will not work on new windows 11 os. I am working on that. 
